@@ -147,7 +147,7 @@ Counts the number of countries where sales occurred.
 
 ## Dashboard Preview
 
-https://github.com/divya524/FUTURE_DS_01/blob/main/Business%20Sales%20Performance%20Analytics_photo.png
+![image alt](https://github.com/divya524/FUTURE_DS_01/blob/d8281323b5382115e881e087ddb974223e20562b/Business%20Sales%20Performance%20Analytics_photo.png)
 ---
 
 ## Project Outcome
